@@ -1,4 +1,1 @@
-eshaServer
-==========
-
-excelSha server code
+this is a project to ExcelSha:a android game's server code
